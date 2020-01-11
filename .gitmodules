@@ -1,0 +1,6 @@
+[submodule "libxlsxwriter"]
+	path = libxlsxwriter
+	url = https://github.com/jmcnamara/libxlsxwriter.git
+[submodule "tsv2excel"]
+	path = tsv2excel
+	url = https://github.com/shiquan/tsv2excel.git
